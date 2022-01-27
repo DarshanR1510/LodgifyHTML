@@ -1,0 +1,10 @@
+{
+  "url": "http://localhost:8080/pricing.html",
+  "rentalcount": 50,
+  "StarterDollar": 64,
+  "ProfessionalDollar": 375,
+  "UltimateDollar": 525,
+  "Euro": "€ EUR",
+  "Dollar": "$ USD",
+  "Pound": "£ GBP"
+}

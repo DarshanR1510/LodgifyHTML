@@ -1,0 +1,19 @@
+{
+  "PricingTab": ".menu-item-1057",
+  "CookieBanner": ".cookie-notice-container",
+  "CookieAccept": "#cn-accept-cookie",
+  "LoginBtn": "#menu-item-31 > a",
+  "RentalCount": "#scroll-prop-plan",
+  "Yearly": "li[data-price-period=2]",
+  "ScrollNudge": ".slider-handle.min-slider-handle.round",
+  "ProfessionalPrice": ".plan-price.plan-price-1.text-dark",
+  "StarterPrice": ".plan-price.plan-price-2.text-dark",
+  "UltimatePrice": ".plan-price.plan-price-3.text-dark",
+  "ValueLocator": ".total-sum",
+  "CurrencyBox": ".price-currency-select",
+  "EuroSign": ".price-card-starter > .price-item > :nth-child(1) > .plan-price > .currency-symbol-post",
+  "PDSign": ".price-card-starter > .price-item > :nth-child(1) > .plan-price > .currency-symbol-pre",
+  "GetStartedBtn": "a[data-text='Get Started']",
+  "Q1": ":nth-child(1) > .faq-question",
+  "A1": ":nth-child(1) > .faq-answer"
+}

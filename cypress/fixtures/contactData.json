@@ -1,0 +1,13 @@
+{
+  "Url": "http://localhost:8080/contact.html",
+  "PersonName": "Darshan Ramani",
+  "SelectedCountry": "Poland",
+  "PhoneNumber": "+48517868499",
+  "Email": "abd17@sa.com",
+  "Guests": 3,
+  "StartMonth": "April",
+  "StartDate": 14,
+  "EndMonth": "June",
+  "EndDate": 14,
+  "Comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam pretium sapien ante, vulputate facilisis dui commodo non."
+}
