@@ -1,0 +1,19 @@
+{
+  "ContactHeader": "h4.ui.header",
+  "PersonName": "input[name=name]",
+  "PhoneCountry": ".PhoneInputCountryIconImg",
+  "PhoneNumber": "input[name=phone]",
+  "Email": "input[name=email]",
+  "Guests": "input[name=guests]",
+  "DatePicker": ".DateRangePickerInput_calendarIcon",
+  "NextMonthArrow": ".DayPickerNavigation_rightButton__horizontalDefault",
+  "FocusMonth": ":nth-child(3) > .CalendarMonth > .CalendarMonth_caption",
+  "ArrivalDate": "[aria-label=Arrival]",
+  "DepartureDate": "[aria-label=Departure]",
+  "Comment": "textarea[placeholder=Comment]",
+  "Send": "[type=submit]",
+  "ConfirmMsg": ".ui.success.message",
+  "Nameerror": ".ui.red.pointing.below.label",
+  "emailerror": ".ui.red.pointing.below.label:nth-child(2)",
+  "commenterror": ":nth-child(4) > .input > .ui"
+}
