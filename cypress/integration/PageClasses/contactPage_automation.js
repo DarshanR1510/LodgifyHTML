@@ -133,9 +133,9 @@ class ContactPage {
     Sbutton.click();
   }
 
-  SendError() {
-    const errormsg = cy.get(contact.SendErrorConf);
-    errormsg.should("be.visible");
+  ConfirmMsg() {
+    const confirmmsg = cy.get(contact.ConfirmMsg);
+    confirmmsg.should("be.visible");
   }
 }
 

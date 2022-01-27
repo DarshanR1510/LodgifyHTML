@@ -12,7 +12,7 @@
   "DepartureDate": "[aria-label=Departure]",
   "Comment": "textarea[placeholder=Comment]",
   "Send": "[type=submit]",
-  "SendErrorConf": ".ui.error.message",
+  "ConfirmMsg": ".ui.success.message",
   "Nameerror": ".ui.red.pointing.below.label",
   "emailerror": ".ui.red.pointing.below.label:nth-child(2)",
   "commenterror": ":nth-child(4) > .input > .ui"

@@ -21,7 +21,7 @@ describe("Test Suite - Contact Page Automation", () => {
       );
       cp.Comment(personData.Comment);
       cp.Submit();
-      cp.SendError();
+      cp.ConfirmMsg();
     });
   });
 });
